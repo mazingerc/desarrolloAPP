@@ -1,0 +1,198 @@
+[
+    {
+      "id": 1,
+      "title": "Gorra Celtics",
+      "description": "Boston Celtics verde logo",
+      "price": 42000,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "New Era",
+      "category": "Eastern Conference",
+      
+      "images":
+        "https://images.footballfanatics.com/boston-celtics/boston-celtics-new-era-the-league-9forty-adjustable-cap-mens_ss4_p-11888221+u-xufgmadc5lr9u4km6map+v-b9eca2b6564a433098f836493b668be7.jpg?_hv=2&w=340"
+      
+    },
+    {
+      "id": 2,
+      "title": "Gorra Bulls",
+      "description": "Chicago Bulls negra logo",
+      "price": 40000,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 34,
+      "brand": "New Era",
+      "category": "Eastern Conference",
+     
+      "images":"chicago-bulls-new-era-the-league-9forty-adjustable-hat-youth_ss5_p-200802923+u-v6knjs3jfx091vyzgnes+v-ck9thvmjkt7en3daegga.jpg?_hv=2&w=340"
+    },
+    {
+      "id": 3,
+      "title": "Gorra Piston",
+      "description": "Detroit Pistons azul logo",
+      "price": 41000,
+      "discountPercentage": 15.46,
+      "rating": 4.09,
+      "stock": 36,
+      "brand": "New Era",
+      "category": "Eastern Conference",
+      
+      "images": "https://images.footballfanatics.com/detroit-pistons/detroit-pistons-new-era-the-league-9forty-adjustable-cap_ss4_p-11898632+u-v2eld223rrjpsfu97rsp+v-bdde6f6514c0422489d439e0b55a7f2f.jpg?_hv=2&w=340"
+    },
+    {
+      "id": 4,
+      "title": "Gorra Knicks",
+      "description": "New York Knicks azul logo",
+      "price": 42000,
+      "discountPercentage": 17.91,
+      "rating": 4.3,
+      "stock": 123,
+      "brand": "New Era",
+      "category": "Eastern Conference",
+     
+      "images": 
+        "https://images.footballfanatics.com/new-york-knicks/new-york-knicks-new-era-the-league-9forty-adjustable-cap_ss4_p-11897402+u-mp3b5w85hbfmfddauif8+v-59afe6a7e75a4538a77836877ddc4d8e.jpg?_hv=2&w=340"
+    },
+    {
+      "id": 5,
+      "title": "Gorra Warriors",
+      "description": "Golden State Warriors aqua logo",
+      "price": 41500,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "brand": "New Era",
+      "category": "Western Conference",
+      
+      "images": 
+        "https://images.footballfanatics.com/golden-state-warriors/golden-state-warriors-new-era-the-league-9forty-adjustable-hat-youth_ss5_p-200802938+u-dy4cfjwyl2bimmzexima+v-sxlybvqialato4ige5ev.jpg?_hv=2&w=340"
+    },
+    {
+      "id": 6,
+      "title": "Gorra Clippers",
+      "description": "Los Angeles Clippers roja logo",
+      "price": 40500,
+      "discountPercentage": 11.02,
+      "rating": 4.57,
+      "stock": 83,
+      "brand": "New Era",
+      "category": "Western Conference",
+      
+      "images": 
+        "https://images.footballfanatics.com/la-clippers/mens-mitchell-and-ness-red-la-clippers-ground-stretch-snapback-hat_pi3978000_ff_3978025-c0e330bc2013058db505_full.jpg?_hv=2&w=340"
+    },
+    {
+      "id": 7,
+      "title": "Gorra Lackers",
+      "description": "Los Angeles Lackers lila logo",
+      "price": 42000,
+      "discountPercentage": 4.15,
+      "rating": 4.25,
+      "stock": 50,
+      "brand": "New Era",
+      "category": "Western Conference",
+
+      "images": 
+        "https://images.footballfanatics.com/los-angeles-lakers/los-angeles-lakers-new-era-the-league-9forty-adjustable-cap_ss4_p-11898347+u-k1u9e7w06c2xlajurusc+v-7746ea2d03c44bf6a424052beccfd107.jpg?_hv=2&w=340"
+    },
+    {
+      "id": 8,
+      "title": "Gorra Kings",
+      "description": "Sacramento Kings gris logo",
+      "price": 41500,
+      "discountPercentage": 10.23,
+      "rating": 4.43,
+      "stock": 68,
+      "brand": "New Era",
+      "category": "Western Conference",
+  
+      "images": 
+        "https://images.footballfanatics.com/sacramento-kings/sacramento-kings-new-era-the-league-9forty-adjustable-cap_ss4_p-11895490+u-lian03ljdvsqpy1ej117+v-52790159d1ec48a58676e606f254aec3.jpg?_hv=2&w=340"
+    },
+    {
+      "id": 9,
+      "title": "Gorrra Hornets",
+      "description": "Charlotte Hornets aqua logo",
+      "price": 35000,
+      "discountPercentage": 11.83,
+      "rating": 4.54,
+      "stock": 96,
+      "brand": "New Era",
+      "category": "Outlet",
+      
+      "images": 
+        "https://images.footballfanatics.com/charlotte-hornets/charlotte-hornets-new-era-the-league-9forty-adjustable-cap_ss4_p-11892302+u-18djb5xpuzxogcbowihs+v-bbeec5d38ca643fb8ff0c5499eb72fdc.jpg?_hv=2&w=340"
+    },
+    {
+      "id": 10,
+      "title": "Gorra 76ers",
+      "description": "Philadelphia 76ers azul logo",
+      "price": 38000,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "New Era",
+      "category": "Outlet",
+     
+      "images": 
+        "https://images.footballfanatics.com/philadelphia-76ers/philadelphia-76ers-new-era-the-league-9forty-adjustable-cap_ss4_p-11897294+u-15i63lda3r4oorrqp896+v-d0e029eba0a0452e98c30733eecb81c4.jpg?_hv=2&w=340"
+    },
+    {
+      "id": 11,
+      "title": "Gorra NBA W",
+      "description": "NBA blanca logo",
+      "price": 41000,
+      "discountPercentage": 8.4,
+      "rating": 4.26,
+      "stock": 65,
+      "brand": "New Era",
+      "category": "NBA",
+     
+      "images": 
+        "https://www.neweracap.eu/globalassets/products/a4992_380/11945717/11945717-left.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Gorra NBA B",
+      "description": "NBA negra logo",
+      "price": 41000,
+      "discountPercentage": 15.66,
+      "rating": 4,
+      "stock": 52,
+      "brand": "New Era",
+      "category": "NBA",
+      
+      "images": 
+        "https://fanatics.frgimages.com/logo-gear/mens-new-era-black-nba-logo-man-9twenty-adjustable-hat_pi3635000_ff_3635367-1042f50a21a256390ed2_full.jpg?_hv=2"
+    },
+    {
+      "id": 13,
+      "title": "Gorra USA W",
+      "description": "USA basketball blanca",
+      "price": 40000,
+      "discountPercentage": 8.14,
+      "rating": 4.59,
+      "stock": 61,
+      "brand": "Nike",
+      "category": "USA",
+     
+      "images": 
+        "https://fanatics.frgimages.com/mens-nike-white-usa-basketball-swoosh-performance-flex-hat_pi3853000_altimages_ff_3853071-54f854688bfbdbd6599calt1_full.jpg?_hv=2&w=900"
+        
+    },
+    {
+      "id": 14,
+      "title": "Gorra USA B",
+      "description": "USA basketball azul",
+      "price": 40000,
+      "discountPercentage": 15.6,
+      "rating": 4.21,
+      "stock": 114,
+      "brand": "Nike",
+      "category": "USA",
+  
+      "images": 
+        "https://images.footballfanatics.com/mens-nike-navy-usa-basketball-campus-performance-adjustable-hat_pi3853000_ff_3853016-69445c8c319ecfd7cff6_full.jpg?_hv=2&w=600"
+    }]
+   
