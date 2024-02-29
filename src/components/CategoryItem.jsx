@@ -1,10 +1,19 @@
 import { Pressable, StyleSheet, Text } from "react-native";
 import Card from "./Card";
 import { colors } from "../global/colors";
+import { useDispatch } from "react-redux";
+import { setCategorySelected } from "../features/shop/shopSlice";
 
 const CategoryItem = ({ category, navigation }) => {
+  const dispatch = useDispatch()
+
   return (
-    <Pressable onPress={() => navigation.navigate("ItemListCategories", {category})}>
+    <Pressable
+      onPress={() => {
+        dispatch(setCategorySelected(category))
+        navigation.navigate("ItemListCategories", { category });
+      }}
+    >
       <Card style={styles.cardContainer}>
         <Text style={styles.text}>{category}</Text>
       </Card>
@@ -21,7 +30,7 @@ const styles = StyleSheet.create({
     padding: 10,
     justifyContent: "center",
     alignItems: "flex-start",
-    backgroundColor: colors.blue_200,
+    backgroundColor: colors.red_200,
     borderRadius: 10,
   },
   text: {
